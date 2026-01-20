@@ -1,0 +1,8 @@
+name: ssa_prototype
+channels:
+ - conda-forge
+dependencies:
+ - obspy
+ - jupyter
+ - notebook
+ - eqcorrscan
