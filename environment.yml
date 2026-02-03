@@ -1,4 +1,4 @@
-name: ssa_prototype
+name: ssa2026imushtm
 channels:
  - conda-forge
 dependencies:
