@@ -1,0 +1,8 @@
+name: ssa2026imushtm
+channels:
+ - conda-forge
+dependencies:
+ - obspy
+ - jupyter
+ - notebook
+ - eqcorrscan
