@@ -4,3 +4,5 @@ venv
 seismic_data
 .parties
 .template*
+.streams*
+initial_work
